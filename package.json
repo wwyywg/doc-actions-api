@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://wwyywg.github.io/doc-actions-api",
   "eslintConfig": {
     "extends": "react-app"
   },
